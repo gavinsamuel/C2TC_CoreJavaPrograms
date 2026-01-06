@@ -1,4 +1,4 @@
-package com.tnsif.list;
+package com.tnsif.collection.practise;
 
 import java.util.ArrayList;
 import java.util.Collections;
